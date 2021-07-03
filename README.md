@@ -28,4 +28,4 @@ https://www.typingdna.com/verify
 ## Authentication Process
 Here is a high level overview of how the process occurs:
 
-<img src="proccess.jpg" />
+<img src="preview.jpg" />
